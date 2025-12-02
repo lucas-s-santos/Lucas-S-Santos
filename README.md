@@ -2,9 +2,7 @@
 
 ### Desenvolvedor Full Stack 🚀 | Focado em Soluções Robustas, Performance e Design de Experiência.
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=lucas-s-santos.lucas-s-santos)
-
-Bem-vindo(a) ao meu perfil oficial no GitHub! Sou um profissional apaixonado por desenvolvimento e inovação, com uma abordagem que cobre toda a stack tecnológica—do **design intuitivo** no Front-end à **otimização de performance** no Back-end e **gerenciamento de dados**.
+Bem-vindo(a) ao meu perfil oficial no GitHub! Sou um profissional apaixonado por desenvolvimento e inovação, com uma abordagem que cobre toda a stack tecnológica do **design intuitivo** no Front-end à **otimização de performance** no Back-end e **gerenciamento de dados**.
 
 Minha missão é transformar requisitos complexos em sistemas funcionais, escaláveis e de alta qualidade.
 
@@ -26,23 +24,9 @@ Abaixo estão as principais tecnologias, linguagens e ferramentas que utilizo no
 
 | Categoria | Tecnologias |
 | :---: | :--- |
-| **Bancos de Dados** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-for-the-badge&logo=mongodb&logoColor=white) |
+| **Bancos de Dados** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
 | **Ferramentas** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) |
 | **Design/Mídia** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white) ![Premiere](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white) ![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white) |
-
----
-
-## 📊 Minha Atividade no GitHub
-
-Aqui você pode acompanhar algumas das minhas estatísticas de desenvolvimento e as linguagens mais utilizadas nos meus repositórios.
-
-<div align="center">
-  
-  [![Lucas S. S. GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucas-s-santos&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/lucas-s-santos)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-s-santos&layout=compact&theme=radical&hide_border=true)](https://github.com/lucas-s-santos)
-  
-</div>
 
 ---
 
@@ -57,7 +41,3 @@ Estou sempre aberto a novos projetos e conexões profissionais. Sinta-se à vont
 | 📧 **Email** | [lucassilvadossantos2005@gmail.com](mailto:lucassilvadossantos2005@gmail.com) |
 
 ---
-
-Seu `README` agora está extremamente profissional, organizado por categorias e visualmente atraente com os badges!
-
-Você gostaria de um toque extra, como uma **citação inspiradora** ou uma **lista de projetos principais** no seu `README`?
