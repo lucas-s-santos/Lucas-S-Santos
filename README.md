@@ -1,9 +1,9 @@
 # Lucas Silva | Desenvolvedor Júnior & Entusiasta Criativo 💻🎨
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:lucassilvadossantos2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://portfolio-lucas-s-s.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"></a>
+  <a href="https://portfolio-lucas-s-s.netlify.app/"><img src="https://img.shields.io/badge/Portfólio-FF4500?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfólio"></a>
 </p>
 
 ---
@@ -20,51 +20,52 @@ Minha experiência anterior como freelancer em **design gráfico e edição de v
 
 ## 🛠️ Stack de Tecnologias & Ferramentas
 
-Para resolver o problema da visualização dos ícones, vamos usar um formato mais limpo e profissional, dividindo as tecnologias por categoria e usando os ícones do **Skill Icons** com o layout de linha (que fica mais organizado).
+Aqui, separamos as tecnologias em grupos e removemos ícones repetidos ou inconsistentes, garantindo um visual limpo e moderno.
 
 ### Linguagens & Core Tech
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,java,php,csharp,cplusplus,nodejs&perline=9" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,java,php,csharp,cpp,nodejs&perline=9" />
 </p>
 
-### Frameworks & Libraries
+### Frameworks & Libraries (Frontend/Backend)
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwindcss&perline=9" />
 </p>
 
-### Banco de Dados & Backend as a Service
+### Banco de Dados & Infraestrutura
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,sqlserver,neo4j,supabase&perline=9" />
 </p>
 
-### Ferramentas & Design
+### Ferramentas, Design & Mídia
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,photoshop,premiere,aftereffects&perline=9" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,ps,pr,ae&perline=9" />
 </p>
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 📈 Meu Desempenho no GitHub
 
-A seção de estatísticas está boa, mas vamos adicionar um título e uma pequena descrição para contextualizar.
+Para as estatísticas, usamos o tema `dark` e centralizamos tudo para um visual mais coeso e profissional.
 
 <div align="center">
-  <h3>Linguagens Mais Utilizadas (Top-Langs)</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-S-Santos&layout=compact&theme=dark&hide_border=true&card_width=320" alt="Lucas-S-Santos's Top Languages" />
-</div>
-<br>
-<div align="center">
+  <h3>Estatísticas de Atividade</h3>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Lucas-S-Santos&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&card_width=450"/>
+  
+  <h3>Linguagens Mais Utilizadas</h3>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-S-Santos&layout=compact&langs_count=7&theme=dark&hide_border=true&card_width=450"/>
+  
   <h3>Conquistas e Troféus</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=Lucas-S-Santos&theme=dark&no-frame=true&row=1&column=4" alt="Lucas-S-Santos's GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Lucas-S-Santos&theme=dark&no-frame=true" alt="Lucas-S-Santos's GitHub Trophies" />
 </div>
 
 ---
 
 ## 🔗 Meus Contatos
 
-Vamos usar uma lista simples e objetiva para os contatos.
+Vamos manter a simplicidade e a clareza para que qualquer um possa te encontrar facilmente.
 
-* **GitHub:** [@Lucas-S-Santos](https://github.com/Lucas-S-Santos) (Você já está aqui!)
-* **LinkedIn:** [Seu Nome Completo](https://www.linkedin.com/in/SEU_LINKEDIN) **<- LEMBRE-SE DE INSERIR SEU LINK DO LINKEDIN AQUI!**
+* **GitHub:** [@Lucas-S-Santos](https://github.com/Lucas-S-Santos)
+* **LinkedIn:** [Lucas Silva]([https://www.linkedin.com/in/SEU_LINKEDIN_AQUI](https://www.linkedin.com/in/lucas-silva-dos-santos-31026726a/))
 * **Portfólio/Website:** [Acesse Meu Portfólio](https://portfolio-lucas-s-s.netlify.app/)
 * **Email:** [lucassilvadossantos2005@gmail.com](mailto:lucassilvadossantos2005@gmail.com)
