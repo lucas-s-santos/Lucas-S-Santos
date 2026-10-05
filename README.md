@@ -63,7 +63,7 @@ const lucas = {
   <a href="https://portal-conectacidade.vercel.app"><img src="assets/card-conecta.svg" width="49%" alt="Conecta Cidade — plataforma de problemas urbanos na Google Play"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/lucas-s-santos/store-fanatic"><img src="assets/card-store.svg" width="49%" alt="Store Fanatic — e-commerce com PIX"></a>
+  <a href="https://github.com/lucas-s-santos/store-fanatic"><img src="assets/card-store.svg" width="49%" alt="Store Fanatic — e-commerce de camisas com PIX e painel admin"></a>
   <a href="https://github.com/lucas-s-santos/nexfinance"><img src="assets/card-nex.svg" width="49%" alt="NexFinance — finanças pessoais web e mobile"></a>
 </p>
 <p align="center">
@@ -77,7 +77,7 @@ const lucas = {
 
 | Projeto | O que é | Stack |
 |---|---|---|
-| [Revelado](https://github.com/lucas-s-santos/revelado) | SaaS de páginas comemorativas com QR Code e pagamento via Pix | Next.js · Prisma · AWS S3 · Mercado Pago |
+| [Revelado](https://github.com/lucas-s-santos/revelado) | SaaS de páginas comemorativas com QR Code e pagamento via Pix | Next.js · Prisma · Cloudflare R2 · Mercado Pago |
 | Vital Aço *(privado · cliente real)* | Site de captação e painel de serviços, agenda e financeiro | Next.js · TypeScript · Supabase · Vitest |
 | Invitly *(privado)* | SaaS de convites digitais animados com RSVP | React · TypeScript · Supabase |
 
