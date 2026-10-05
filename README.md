@@ -1,43 +1,104 @@
-# Olá, eu sou Lucas Silva dos Santos! 👋
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="Lucas Silva dos Santos — Full Stack & Mobile Developer">
+</p>
 
-### Desenvolvedor Full Stack 🚀 | Focado em Soluções Robustas, Performance e Design de Experiência.
+<p align="center">
+  <a href="https://lucas-portfolio-opal.vercel.app"><img src="assets/btn-portfolio.svg" height="52" alt="Portfólio"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/lucas-silva-dos-santos-31026726a"><img src="assets/btn-linkedin.svg" height="52" alt="LinkedIn"></a>&nbsp;
+  <a href="mailto:lucassilvadossantos2005@gmail.com"><img src="assets/btn-email.svg" height="52" alt="E-mail"></a>&nbsp;
+  <a href="https://www.instagram.com/dev.lucassilva.ss/"><img src="assets/btn-instagram.svg" height="52" alt="Instagram"></a>
+</p>
 
-Bem-vindo(a) ao meu perfil oficial no GitHub! Sou um profissional apaixonado por desenvolvimento e inovação, com uma abordagem que cobre toda a stack tecnológica do **design intuitivo** no Front-end à **otimização de performance** no Back-end e **gerenciamento de dados**.
+<br>
 
-Minha missão é transformar requisitos complexos em sistemas funcionais, escaláveis e de alta qualidade.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/sec-about.svg">
+  <img src="assets/sec-about-light.svg" width="100%" alt="01 — Sobre">
+</picture>
 
----
+Desenvolvedor full stack e mobile, programando desde 2021. Atuo em todo o ciclo do produto — modelagem de dados, APIs, interface e deploy — e sou cofundador da **CalmDev**, onde desenvolvo sistemas para empresas desde 2023. Antes do código vieram sete anos de design gráfico e audiovisual, e é por isso que eu me importo tanto com o acabamento do que entrego.
 
-## 🛠️ Minhas Habilidades Técnicas (Tech Stack)
+```ts
+const lucas = {
+  role: "Full Stack & Mobile Developer",
+  location: "Alfenas, MG — Brasil",
+  codingSince: 2021,
+  stack: ["React", "Next.js", "TypeScript", "Node.js", "Java", "Flutter"],
+  now: ["CalmDev (cofundador)", "Conecta Cidade — app na Google Play", "Ciência da Computação @ Unifenas"],
+  openTo: ["remoto", "híbrido", "presencial", "mudança de cidade"],
+};
+```
 
-Abaixo estão as principais tecnologias, linguagens e ferramentas que utilizo no meu dia a dia profissional, organizadas por área de atuação.
+<br>
 
-### 💻 Linguagens & Frameworks Principais
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/sec-stats.svg">
+  <img src="assets/sec-stats-light.svg" width="100%" alt="02 — Em números">
+</picture>
 
-| Categoria | Tecnologias |
-| :---: | :--- |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) |
-| | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+<p align="center">
+  <img src="assets/stats.svg" width="100%" alt="Estatísticas do GitHub de Lucas Silva dos Santos">
+</p>
 
-### 🗄️ Bancos de Dados, Ferramentas & Design
+<br>
 
-| Categoria | Tecnologias |
-| :---: | :--- |
-| **Bancos de Dados** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
-| **Ferramentas** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) |
-| **Design/Mídia** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white) ![Premiere](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white) ![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white) |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/sec-stack.svg">
+  <img src="assets/sec-stack-light.svg" width="100%" alt="03 — Stack">
+</picture>
 
----
+<p align="center">
+  <img src="assets/stack.svg" width="100%" alt="Stack: React, Next.js, TypeScript, Node.js, Java, PHP, React Native, Flutter, PostgreSQL, Supabase, Docker">
+</p>
 
-## 🔗 Conecte-se Comigo
+<br>
 
-Estou sempre aberto a novos projetos e conexões profissionais. Sinta-se à vontade para me contatar através das plataformas abaixo!
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/sec-projects.svg">
+  <img src="assets/sec-projects-light.svg" width="100%" alt="04 — Projetos em destaque">
+</picture>
 
-| Plataforma | Link |
-| :--- | :--- |
-| 🌐 **Portfólio** | [portfolio-lucas-s-s.netlify.app](https://portfolio-lucas-s-s.netlify.app/) |
-| 💼 **LinkedIn** | [Lucas Silva dos Santos](https://www.linkedin.com/in/lucas-silva-dos-santos-31026726a/) |
-| 📧 **Email** | [lucassilvadossantos2005@gmail.com](mailto:lucassilvadossantos2005@gmail.com) |
+<p align="center">
+  <a href="https://github.com/lucas-s-santos/ticketflow"><img src="assets/card-canhoto.svg" width="49%" alt="Canhoto — API de venda de ingressos em Java e Spring Boot"></a>
+  <a href="https://portal-conectacidade.vercel.app"><img src="assets/card-conecta.svg" width="49%" alt="Conecta Cidade — plataforma de problemas urbanos na Google Play"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/lucas-s-santos/store-fanatic"><img src="assets/card-store.svg" width="49%" alt="Store Fanatic — e-commerce com PIX"></a>
+  <a href="https://github.com/lucas-s-santos/nexfinance"><img src="assets/card-nex.svg" width="49%" alt="NexFinance — finanças pessoais web e mobile"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/lucas-s-santos/Calm-Cup"><img src="assets/card-calmcup.svg" width="49%" alt="Calm Cup — app de futebol em Flutter na Google Play"></a>
+  <a href="https://github.com/lucas-s-santos/KORPdevops"><img src="assets/card-korp.svg" width="49%" alt="KORPdevops — infraestrutura e observabilidade"></a>
+</p>
 
----
+<details>
+<summary><b>Outros projetos</b></summary>
+<br>
+
+| Projeto | O que é | Stack |
+|---|---|---|
+| [Revelado](https://github.com/lucas-s-santos/revelado) | SaaS de páginas comemorativas com QR Code e pagamento via Pix | Next.js · Prisma · AWS S3 · Mercado Pago |
+| Vital Aço *(privado · cliente real)* | Site de captação e painel de serviços, agenda e financeiro | Next.js · TypeScript · Supabase · Vitest |
+| Invitly *(privado)* | SaaS de convites digitais animados com RSVP | React · TypeScript · Supabase |
+
+Os cases completos dos projetos privados estão no [portfólio](https://lucas-portfolio-opal.vercel.app).
+
+</details>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/sec-principles.svg">
+  <img src="assets/sec-principles-light.svg" width="100%" alt="05 — Como eu trabalho">
+</picture>
+
+<p align="center">
+  <img src="assets/principles.svg" width="100%" alt="Como eu trabalho: tipado de ponta a ponta, segurança por padrão, testado antes do deploy, design antes do código">
+</p>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/footer.svg">
+  <img src="assets/footer-light.svg" width="100%" alt="Obrigado pela visita">
+</picture>
