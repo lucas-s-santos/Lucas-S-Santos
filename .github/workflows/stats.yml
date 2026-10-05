@@ -13,15 +13,22 @@ permissions:
 jobs:
   stats:
     runs-on: ubuntu-latest
+    env:
+      STATS_TOKEN: ${{ secrets.STATS_TOKEN }}
     steps:
+      - name: Sem STATS_TOKEN
+        if: env.STATS_TOKEN == ''
+        run: echo "::warning::Crie o secret STATS_TOKEN (Settings → Secrets → Actions) para gerar o painel com dados reais."
       - uses: actions/checkout@v4
+        if: env.STATS_TOKEN != ''
       - uses: actions/setup-node@v4
+        if: env.STATS_TOKEN != ''
         with:
           node-version: 22
       - run: node scripts/stats.mjs
-        env:
-          STATS_TOKEN: ${{ secrets.STATS_TOKEN }}
+        if: env.STATS_TOKEN != ''
       - name: Commit
+        if: env.STATS_TOKEN != ''
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
