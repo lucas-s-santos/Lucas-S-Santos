@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://lucas-portfolio-opal.vercel.app"><img src="assets/btn-portfolio.svg" height="52" alt="Portfólio"></a>&nbsp;
-  <a href="https://www.linkedin.com/in/lucas-silva-dos-santos-31026726a"><img src="assets/btn-linkedin.svg" height="52" alt="LinkedIn"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/lucas-silva-dos-santos"><img src="assets/btn-linkedin.svg" height="52" alt="LinkedIn"></a>&nbsp;
   <a href="mailto:lucassilvadossantos2005@gmail.com"><img src="assets/btn-email.svg" height="52" alt="E-mail"></a>&nbsp;
   <a href="https://www.instagram.com/dev.lucassilva.ss/"><img src="assets/btn-instagram.svg" height="52" alt="Instagram"></a>
 </p>
