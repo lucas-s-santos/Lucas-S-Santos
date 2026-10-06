@@ -19,9 +19,9 @@ jobs:
       - name: Sem STATS_TOKEN
         if: env.STATS_TOKEN == ''
         run: echo "::warning::Crie o secret STATS_TOKEN (Settings → Secrets → Actions) para gerar o painel com dados reais."
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
         if: env.STATS_TOKEN != ''
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v5
         if: env.STATS_TOKEN != ''
         with:
           node-version: 22
